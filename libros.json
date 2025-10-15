@@ -1,0 +1,21 @@
+[
+  {
+    "titulo": "La puerta de los tres cerrojos",
+    "autor": "Sonia Fernández-Vidal",
+    "reseña": "En este libro se mezcla por primera vez, fantasía y física cuántica; y hace que la ciencia sea accesible y atractiva.",
+    "estrellas": 5,
+    "enlace": "https://www.planetadelibros.com/libro-trilogia-la-puerta-de-los-tres-cerrojos-pack/303896"
+  },
+  {
+    "titulo": "Cosmos",
+    "autor": "Carl Sagan",
+    "reseña": "Un viaje por el universo y la historia de la ciencia, con un enfoque humano y filosófico.",
+    "estrellas": 5
+  },
+  {
+    "titulo": "Relatividad",
+    "autor": "Albert Einstein",
+    "reseña": "Una explicación accesible de la teoría de la relatividad especial y general.",
+    "estrellas": 5
+  }
+]
